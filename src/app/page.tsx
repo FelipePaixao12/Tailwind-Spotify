@@ -6,7 +6,7 @@ import { CardsBottom } from '@/components/CardsBottom'
 
 export default function Home() {
   return (
-  <div className="h-screen flex flex-col scroll-m-0 scroll-my-0		">
+  <div className="h-screen flex flex-col scroll-m-0 scroll-my-0">
     <div className="flex flex-1">
     <Sidebar />
     <main className="flex-1 p-6">
